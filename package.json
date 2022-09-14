@@ -8,7 +8,7 @@
     "start": "nodemon server.js"
 
   },
-  "author": "Le Quang Phu B190674",
+  "author": "Le Quang Phu B1906744",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
